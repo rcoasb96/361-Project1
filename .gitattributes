@@ -6,3 +6,9 @@ IMG_0518.JPG filter=lfs diff=lfs merge=lfs -text
 bros.jpg filter=lfs diff=lfs merge=lfs -text
 cousin.jpg filter=lfs diff=lfs merge=lfs -text
 cubsvid.mp4 filter=lfs diff=lfs merge=lfs -text
+MG_0518-min.JPG filter=lfs diff=lfs merge=lfs -text
+bros-min.jpg filter=lfs diff=lfs merge=lfs -text
+cousin-min.jpg filter=lfs diff=lfs merge=lfs -text
+cubschamps-min.jpg filter=lfs diff=lfs merge=lfs -text
+img_0157-min.JPG filter=lfs diff=lfs merge=lfs -text
+img_8046-min.JPG filter=lfs diff=lfs merge=lfs -text
